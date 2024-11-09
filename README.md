@@ -20,7 +20,7 @@ The Caesar Cipher is a substitution cipher that encrypts each letter in the plai
 ## 🔍 Use Cases
 - Educational Tool: Demonstrates basic encryption concepts for teaching purposes.
 - Puzzles and Games: Useful for creating cipher-based puzzles or challenges.
--Introductory Cryptography: Ideal for beginners exploring cryptography and substitution ciphers.
+- Introductory Cryptography: Ideal for beginners exploring cryptography and substitution ciphers.
 
 ## 📝 Results and Insights
 Building the Caesar Cipher Tool provided insight into the design of a basic encryption algorithm. Implementing this tool in JavaScript enhanced my understanding of edge cases, input validation, and the importance of clear user guidance. Challenges included managing uppercase/lowercase letter handling and preserving non-alphabetic characters, which emphasized the importance of user experience in cryptography tools.
