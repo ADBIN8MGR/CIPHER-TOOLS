@@ -6,21 +6,21 @@ The Caesar Cipher Tool is a web-based application that demonstrates one of the e
 The Caesar Cipher is a substitution cipher that encrypts each letter in the plaintext by shifting it a fixed number of positions down the alphabet, determined by the encryption key. The tool allows a shift key between 1 and 25, which the user can adjust to vary the cipher's strength. Developed in JavaScript, the tool supports both encryption (shifting letters forward) and decryption (shifting letters backward) and handles user interactions dynamically.
 
 ## 💻 Technologies Used
-- HTML5: 🏗️ Structures the web page layout and elements.
--  CSS3: 🎨 Styles the user interface and manages layout responsiveness.
-- JavaScript: ✨ Implements the Caesar Cipher algorithm, handles real-time input/output updates, and enables user interactions.
+- HTML5: Structures the web page layout and elements.
+- CSS3: Styles the user interface and manages layout responsiveness.
+- JavaScript: Implements the Caesar Cipher algorithm, handles real-time input/output updates, and enables user interactions.
 
 ## 🌟 Main Features
-Encrypt and Decrypt 🔐: Perform Caesar Cipher encryption and decryption on user-provided text.
-Adjustable Shift Key 🔄: Set the shift value between 1 and 25.
-Real-Time Updates 🕒: Output updates instantly as the user types or changes input.
-Clipboard Copy 📋: Copy the encrypted or decrypted text with a single click.
-User-Friendly Interface 👍: Clear instructions and input validation for an intuitive experience.
+- Encrypt and Decrypt: Perform Caesar Cipher encryption and decryption on user-provided text.
+- Adjustable Shift Key: Set the shift value between 1 and 25.
+- Real-Time Updates: Output updates instantly as the user types or changes input.
+- Clipboard Copy: Copy the encrypted or decrypted text with a single click.
+- User-Friendly Interface: Clear instructions and input validation for an intuitive experience.
 
 ## 🔍 Use Cases
-Educational Tool 🎓: Demonstrates basic encryption concepts for teaching purposes.
-Puzzles and Games 🧩: Useful for creating cipher-based puzzles or challenges.
-Introductory Cryptography 🔑: Ideal for beginners exploring cryptography and substitution ciphers.
+- Educational Tool: Demonstrates basic encryption concepts for teaching purposes.
+- Puzzles and Games: Useful for creating cipher-based puzzles or challenges.
+-Introductory Cryptography: Ideal for beginners exploring cryptography and substitution ciphers.
 
 ## 📝 Results and Insights
 Building the Caesar Cipher Tool provided insight into the design of a basic encryption algorithm. Implementing this tool in JavaScript enhanced my understanding of edge cases, input validation, and the importance of clear user guidance. Challenges included managing uppercase/lowercase letter handling and preserving non-alphabetic characters, which emphasized the importance of user experience in cryptography tools.
