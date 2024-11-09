@@ -26,10 +26,8 @@ The Caesar Cipher is a substitution cipher that encrypts each letter in the plai
 Building the Caesar Cipher Tool provided insight into the design of a basic encryption algorithm. Implementing this tool in JavaScript enhanced my understanding of edge cases, input validation, and the importance of clear user guidance. Challenges included managing uppercase/lowercase letter handling and preserving non-alphabetic characters, which emphasized the importance of user experience in cryptography tools.
 
 ## 🚀 Possible Improvements
-Multi-Language Support 🌐: Extend functionality to other alphabets and character sets.
-Advanced Encryption Options 🔒: Implement more secure algorithms, like Vigenère or AES.
-Visualization of Encryption Process 📊: Add a visual representation to clarify the encryption steps.
-Save/Load Messages 💾: Allow users to store and retrieve encrypted messages.
-Enhanced UI 🖌️: Improve customization options and responsive design.
-
-## 📚 Resources and References
+- Multi-Language Support 🌐: Extend functionality to other alphabets and character sets.
+- Advanced Encryption Options 🔒: Implement more secure algorithms, like Vigenère or AES.
+- Visualization of Encryption Process 📊: Add a visual representation to clarify the encryption steps.
+- Save/Load Messages 💾: Allow users to store and retrieve encrypted messages.
+- Enhanced UI 🖌️: Improve customization options and responsive design.
