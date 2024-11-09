@@ -1,4 +1,4 @@
-# 🔒 Caesar Cipher Tool
+# 🔒 Caesar Cipher Tool #
 ## 📘 Introduction
 The Caesar Cipher Tool is a web-based application that demonstrates one of the earliest encryption techniques known as the Caesar Cipher. This tool enables users to encrypt and decrypt messages using a simple substitution cipher, where each letter in the plaintext shifts by a set number of positions along the alphabet. This project provides a hands-on experience in understanding basic encryption concepts and their role in cybersecurity.
 
