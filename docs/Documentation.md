@@ -58,5 +58,3 @@ In this case, the number's ASCII code is obtained using `charCodeAt(0)`, and 48 
 ![Example 4: Encoding "Cipher123" with a shift of 7](path/to/example4-image.png)
 
 In the last example, the letters are shifted by 7 positions, while the numbers are shifted by 7 positions modulo 10. Therefore, "1" becomes "8", "2" becomes "9", and "3" becomes "0".
-
-With this updated documentation, the encryption and decryption logic for both letters and numbers is clearly explained, and the examples demonstrate the behavior of the Caesar Cipher Tool for different types of input.
