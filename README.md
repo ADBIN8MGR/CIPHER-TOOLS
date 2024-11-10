@@ -39,3 +39,13 @@ Building the Caesar Cipher Tool provided insight into the design of a basic encr
 - Visualization of Encryption Process: Add a visual representation to clarify the encryption steps.
 - Save/Load Messages: Allow users to store and retrieve encrypted messages.
 - Enhanced UI: Improve customization options and responsive design.
+
+
+# Caesar Cipher Tool Documentation 🔒
+## Table of Contents
+1. [Project Overview](#project-overview-)
+3. [Usage](#usage-)
+
+## Project Overview 📝
+
+## Usage 🚀
