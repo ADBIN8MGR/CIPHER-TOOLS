@@ -5,8 +5,7 @@
 2. [Installation](#installation)
 3. [Usage](#usage)
 4. [Caesar Cipher Algorithm](#caesar-cipher-algorithm)
-5. [Contributing](#contributing)
-6. [Examples](#examples)
+5. [Examples](#examples)
 
 ## Project Overview
 The Caesar Cipher Tool is a web-based application that allows users to encrypt and decrypt messages using the Caesar Cipher algorithm. The tool provides an intuitive interface for encoding and decoding text with a customizable shift value.
