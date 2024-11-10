@@ -1,6 +1,6 @@
 # 🔒 Caesar Cipher Tool 
 ## Table of Contents
-1. [Introduction](#📘 introduction)
+1. [Introduction](#📘introduction)
 2. [Technical Description](#technical-description)
 3. [Technologies Used](#technologies-used)
 4. [Main Features](#main-features)
