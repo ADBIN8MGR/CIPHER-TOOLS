@@ -47,14 +47,14 @@ In this case, the number's ASCII code is obtained using `charCodeAt(0)`, and 48 
 
 2. Decoding "khoor" with a shift of 3 should result in "hello".
 
-![Example 2: Decoding "khoor" with a shift of 3](Caesar-Cipher-Tool/docs/example2-image.png)
+![Example 2: Decoding "khoor" with a shift of 3](example2-image.png)
 
 3. Encoding "Hello, World!" with a shift of 5 should result in "Mjqqt, Btwqi!".
 
-![Example 3: Encoding "Hello, World!" with a shift of 5](Caesar-Cipher-Tool/docs/example3-image.png)
+![Example 3: Encoding "Hello, World!" with a shift of 5](example3-image.png)
 
 4. Encoding "Cipher123" with a shift of 7 should result in "Jpwoly890".
 
-![Example 4: Encoding "Cipher123" with a shift of 7](Caesar-Cipher-Tool/docs/example4-image.png)
+![Example 4: Encoding "Cipher123" with a shift of 7](example4-image.png)
 
 In the last example, the letters are shifted by 7 positions, while the numbers are shifted by 7 positions modulo 10. Therefore, "1" becomes "8", "2" becomes "9", and "3" becomes "0".
