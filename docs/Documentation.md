@@ -17,8 +17,8 @@ The Caesar Cipher Tool is a web-based application that allows users to encrypt a
 
 ## Installation
 To install and run the Caesar Cipher Tool locally, follow these steps:
-1. Clone the project repository: `git clone https://github.com/your-username/caesar-cipher-tool.git`
-2. Navigate to the project directory: `cd caesar-cipher-tool`
+1. Clone the project repository: `git clone https://github.com/RobCyberLab/Caesar-Cipher-Tool.git`
+2. Navigate to the project directory: `cd src`
 3. Open the `index.html` file in your preferred web browser.
 
 ## Usage
