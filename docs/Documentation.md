@@ -6,11 +6,7 @@
 3. [Usage](#usage)
 4. [Caesar Cipher Algorithm](#caesar-cipher-algorithm)
 5. [Contributing](#contributing)
-6. [Tests](#tests)
-7. [Examples](#examples)
-8. [Configuration](#configuration)
-9. [Setup](#setup)
-10. [License](#license)
+6. [Examples](#examples)
 
 ## Project Overview
 The Caesar Cipher Tool is a web-based application that allows users to encrypt and decrypt messages using the Caesar Cipher algorithm. The tool provides an intuitive interface for encoding and decoding text with a customizable shift value.
@@ -38,7 +34,7 @@ The Caesar Cipher is a substitution cipher that shifts each letter in the plaint
 
 Where `x` is the character to be encrypted or decrypted, `k` is the shift value, and `mod 26` represents the modulo operation with 26 (the number of letters in the English alphabet).
 
-### Example Test Cases
+## Examples
 - Encoding "hello" with a shift of 3 should result in "khoor".
 - Decoding "khoor" with a shift of 3 should result in "hello".
 - Encoding "Hello, World!" with a shift of 5 should result in "Mjqqt, Btwqi!".
