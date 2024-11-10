@@ -43,7 +43,7 @@ In this case, the number's ASCII code is obtained using `charCodeAt(0)`, and 48 
 ## Examples
 1. Encoding "hello" with a shift of 3 should result in "khoor".
 
-![Example 1: Encoding "hello" with a shift of 3]<img src="example1-image.png" alt="Example 1: Encoding 'hello' with a shift of 3" width="400"/>
+![Example 1: Encoding "hello" with a shift of 3]<div style="text-align: center;"> <img src="example1-image.png" alt="Example 1: Encoding 'hello' with a shift of 3" width="400"/> <p><em>Example 1: Encoding 'hello' with a shift of 3</em></p> </div>
 
 2. Decoding "khoor" with a shift of 3 should result in "hello".
 
