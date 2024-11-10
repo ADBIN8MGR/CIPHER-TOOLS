@@ -1,7 +1,7 @@
 # 🔒 Caesar Cipher Tool 
 ## Table of Contents
 1. [Introduction](#introduction-)
-2. [Technical Description](#technical-desc-)
+2. [Technical Description](#technical-description-)
 3. [Technologies Used](#technologies-used-)
 4. [Main Features](#main-features-)
 5. [Use Cases](#use-cases-)
@@ -10,7 +10,7 @@
 ## Introduction 📘
 The Caesar Cipher Tool is a web-based application that demonstrates one of the earliest encryption techniques known as the Caesar Cipher. This tool enables users to encrypt and decrypt messages using a simple substitution cipher, where each letter in the plaintext shifts by a set number of positions along the alphabet. This project provides a hands-on experience in understanding basic encryption concepts and their role in cybersecurity.
 
-## Technical Description ⚙️
+## Technical Description⚙️
 The Caesar Cipher is a substitution cipher that encrypts each letter in the plaintext by shifting it a fixed number of positions down the alphabet, determined by the encryption key. The tool allows a shift key between 1 and 25, which the user can adjust to vary the cipher's strength. Developed in JavaScript, the tool supports both encryption (shifting letters forward) and decryption (shifting letters backward) and handles user interactions dynamically.
 
 ## Technologies Used 💻
