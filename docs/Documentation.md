@@ -51,14 +51,26 @@ In this case, the number's ASCII code is obtained using `charCodeAt(0)`, and 48 
 
 2. Decoding "khoor" with a shift of 3 should result in "hello".
 
-![Example 2: Decoding "khoor" with a shift of 3](example2-image.png)
+<p align="center">
+  <img src="example2-image.png" alt="Example 2: Decoding 'khoor' with a shift of 3" width="500">
+  <br>
+  <em>Example 1: Encoding "hello" with a shift of 3</em>
+</p>
 
 3. Encoding "Hello, World!" with a shift of 5 should result in "Mjqqt, Btwqi!".
 
-![Example 3: Encoding "Hello, World!" with a shift of 5](example3-image.png)
+<p align="center">
+  <img src="example3-image.png" alt="Example 3: Encoding 'Hello, World!' with a shift of 5" width="500">
+  <br>
+  <em>Example 1: Encoding "hello" with a shift of 3</em>
+</p>
 
 4. Encoding "Cipher123" with a shift of 7 should result in "Jpwoly890".
 
-![Example 4: Encoding "Cipher123" with a shift of 7](example4-image.png)
+<p align="center">
+  <img src="example4-image.png" alt="Example 4: Encoding 'Cipher123' with a shift of 7" width="500">
+  <br>
+  <em>Example 1: Encoding "hello" with a shift of 3</em>
+</p>
 
 In the last example, the letters are shifted by 7 positions, while the numbers are shifted by 7 positions modulo 10. Therefore, "1" becomes "8", "2" becomes "9", and "3" becomes "0".
