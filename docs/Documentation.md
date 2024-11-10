@@ -44,7 +44,7 @@ In this case, the number's ASCII code is obtained using `charCodeAt(0)`, and 48 
 1. Encoding "hello" with a shift of 3 should result in "khoor".
 
 <p align="center">
-  <img src="path/to/example1-image.png" alt="Example 1: Encoding 'hello' with a shift of 3" width="500">
+  <img src="example1-image.png" alt="Example 1: Encoding 'hello' with a shift of 3" width="500">
   <br>
   <em>Example 1: Encoding "hello" with a shift of 3</em>
 </p>
