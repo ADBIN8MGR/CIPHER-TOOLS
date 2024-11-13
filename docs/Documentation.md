@@ -44,12 +44,13 @@ cd src
 The Caesar Cipher implementation includes distinct handling for letters and numbers:
 
 ### Letter Processing
-```javascript
-// Letter Shifting
+
 - Case-sensitive processing
 - Modulo 26 operation for alphabet bounds
 - ASCII code manipulation
 
+```javascript
+// Letter Shifting
 let code = char.charCodeAt(0);
 let baseCode = char === char.toUpperCase() ? 65 : 97;
 code = (code - baseCode + shift) % 26 + baseCode;
@@ -57,11 +58,12 @@ char = String.fromCharCode(code);
 ```
 
 ### Number Processing
-```javascript
-// Number Shifting
+
 - Modulo 10 operation for digit bounds
 - ASCII adjustment for numeric values
 
+```javascript
+// Number Shifting
 char = String.fromCharCode((char.charCodeAt(0) - 48 + shift) % 10 + 48);
 ```
 
