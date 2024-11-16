@@ -1,4 +1,4 @@
-# 🔒 Caesar Cipher Tool
+# 🔑 Caesar Cipher Tool
 
 ## Table of Contents
 1. [Introduction](#introduction-)
