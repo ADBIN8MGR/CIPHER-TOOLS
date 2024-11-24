@@ -1,18 +1,18 @@
 # 🔑Caesar Cipher Tool🔐
 
 ## Table of Contents
-1. [Introduction](#introduction-)
-2. [Technical Description](#technical-description-)
-3. [Technologies Used](#technologies-used-)
-4. [Main Features](#main-features-)
-5. [Use Cases](#use-cases-)
-6. [Results and Insights](#results-and-insights-)
-7. [Possible Improvements](#possible-improvements-)
+1. [Introduction](#introduction)
+2. [Technical Description](#technical-description)
+3. [Technologies Used](#technologies-used)
+4. [Main Features](#main-features)
+5. [Use Cases](#use-cases)
+6. [Results and Insights](#results-and-insights)
+7. [Possible Improvements](#possible-improvements)
 
-## Introduction 📘
+## Introduction📘
 The Caesar Cipher Tool is a web-based application that demonstrates one of the earliest encryption techniques known as the Caesar Cipher. This tool enables users to encrypt and decrypt messages using a simple substitution cipher, where each letter in the plaintext shifts by a set number of positions along the alphabet. This project provides a hands-on experience in understanding basic encryption concepts and their role in cybersecurity.
 
-## Technical Description ⚙️
+## Technical Description⚙️
 The Caesar Cipher implementation includes both letter and number shifting capabilities:
 
 - **Letter Shifting**: Each letter is shifted by the specified key value while preserving case:
@@ -29,7 +29,7 @@ char = String.fromCharCode((char.charCodeAt(0) - 48 + shift) % 10 + 48);
 
 The tool automatically handles special characters and spaces by leaving them unchanged, ensuring message formatting is preserved.
 
-## Technologies Used 💻
+## Technologies Used💻
 - **HTML5**: 
   - Semantic structure with clearly organized sections
   - Form controls for encryption settings
@@ -47,7 +47,7 @@ The tool automatically handles special characters and spaces by leaving them unc
   - Clipboard integration for copying results
   - Dynamic heading updates based on mode selection
 
-## Main Features 🌟
+## Main Features🌟
 - **Dual Mode Operation**:
   - Encode: Convert plaintext to ciphertext
   - Decode: Convert ciphertext back to plaintext
@@ -64,7 +64,7 @@ The tool automatically handles special characters and spaces by leaving them unc
   - Auto-clearing of fields on mode change
   - Visual feedback for copy operation
 
-## Use Cases 🔍
+## Use Cases🔍
 - **Educational Purposes**:
   - Teaching basic cryptography concepts
   - Demonstrating substitution ciphers
@@ -75,7 +75,7 @@ The tool automatically handles special characters and spaces by leaving them unc
   - Solving basic cryptographic puzzles
   - Understanding historical ciphers
 
-## Results and Insights 📝
+## Results and Insights📝
 The development of this tool highlighted several key learnings:
 
 - **Character Handling**:
@@ -93,7 +93,7 @@ The development of this tool highlighted several key learnings:
   - Clear error messaging
   - User guidance
 
-## Possible Improvements 🚀
+## Possible Improvements🚀
 - **Enhanced Functionality**:
   - Support for custom character sets
   - Multiple cipher algorithms
